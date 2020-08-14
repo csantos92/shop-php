@@ -1,5 +1,5 @@
 # Shop
-Shop made using PHP, HTML5 and CSS3
+Shop made using PHP, HTML5, CSS3 and MVC. 
 
 ## Preview & LIVE
 
